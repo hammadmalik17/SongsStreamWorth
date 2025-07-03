@@ -35,7 +35,7 @@ This dataset includes detailed metadata for the most popular songs of 2023. It c
 | 3    | Exploratory Data Analysis (EDA)              | 🔄     |
 | 4    | Feature Engineering & Transformation         | ✅      |
 | 5    | Encoding categorical variables               | ✅      |
-| 6    | Visual comparison before vs after transforms | ⏳      |
+| 6    | Visual comparison before vs after transforms | ✅      |
 | 7    | Model Training                               | ⏳      |
 | 8    | Evaluation                                   | ⏳      |
 | 9    | (Optional) Deploy with Streamlit             | ⏳      |
