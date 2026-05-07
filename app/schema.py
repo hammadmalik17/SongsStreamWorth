@@ -25,6 +25,7 @@ class SongFeatures(BaseModel):
 
 
 class PredictionResponse(BaseModel):
+    model_config = {"protected_namespaces": ()}
     predicted_streams: int
     log_streams: float
     model_used: str
