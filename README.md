@@ -170,8 +170,8 @@ What would improve this model:
 
 ## 👤 Author
 
-**Your Name**  
-[GitHub](https://github.com/yourusername) · [LinkedIn](https://linkedin.com/in/yourprofile)
+**Hammad Malik**  
+[GitHub](https://github.com/hammadmalik17/) · [LinkedIn](www.linkedin.com/in/hammad-malik-)
 
 ---
 
