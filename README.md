@@ -1,8 +1,6 @@
 <div align="center">
-
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=200&section=header&text=SongsStreamWorth&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Can%20a%20song's%20sound%20predict%20its%20streams%3F&descAlignY=55&descAlign=50"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=200&section=header&text=SongsStreamWorth&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Can%20a%20song's%20sound%20predict%20its%20streams%3F&descAlignY=62&descAlign=50"/>
 <br/>
 
 <!-- BADGES ROW 1 -->
